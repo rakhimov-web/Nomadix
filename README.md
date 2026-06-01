@@ -3,7 +3,7 @@
 A modern, responsive landing page for a travel agency, designed with a focus on UI/UX and smooth user interactions.
 
 ## 📸 Preview
-![Travel Website Preview](assets/scr)
+![Travel Website Preview](assets/img/screenshot.png)
 
 ## 🚀 Key Features
 *   **Responsive Design:** Optimized for mobile, tablet, and desktop.
@@ -19,7 +19,7 @@ A modern, responsive landing page for a travel agency, designed with a focus on 
 *   **Dependencies:** [Remixicon](https://remixicon.com/), [Swiper.js](https://swiperjs.com/), [ScrollReveal](https://scrollrevealjs.org/)
 
 ## 🔗 Links
-*   **Portfolio:** [abdurahmonrahimov.uz](https://www.rakhim.uz/)
+*   **Portfolio:** [www.rakhim.uz](https://www.rakhim.uz/)
 
 ---
 *Created by Rahimov*
