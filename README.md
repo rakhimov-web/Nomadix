@@ -1,43 +1,26 @@
-# Travel Website - Responsive Landing Page
+# Travel Agency Landing Page
 
-A modern, fully responsive travel agency landing page featuring a clean UI, smooth animations, and a dark/light theme switcher.
+A modern, responsive landing page for a travel agency, designed with a focus on UI/UX and smooth user interactions.
 
-## 🚀 Live Demo
+## 📸 Preview
+![Travel Website Preview](assets/img/screenshot.png)
 
-[View Project Live](#)
+## 🚀 Key Features
+*   **Responsive Design:** Optimized for mobile, tablet, and desktop.
+*   **Theme Switcher:** Seamless Dark/Light mode toggle.
+*   **Interactive UI:** Powered by Swiper.js for destination discovery.
+*   **Animations:** Smooth reveal effects using ScrollReveal.
+*   **Modern Tech:** Built with clean, semantic HTML, CSS, and vanilla JS.
 
-## ✨ Features
+## 🛠️ Tech Stack
+*   **Structure:** HTML5
+*   **Styling:** CSS3 (Custom properties, Flexbox/Grid)
+*   **Logic:** JavaScript (ES6+)
+*   **Dependencies:** [Remixicon](https://remixicon.com/), [Swiper.js](https://swiperjs.com/), [ScrollReveal](https://scrollrevealjs.org/)
 
-- **Fully Responsive:** Mobile-first design that adapts to any screen size.
-- **Dark Mode:** Built-in theme toggler for a personalized user experience.
-- **Dynamic Slider:** Interactive "Discover" section using **Swiper.js**.
-- **Scroll Animations:** Beautiful reveal-on-scroll effects using **ScrollReveal**.
-- **Video Integration:** Custom video player section for virtual tours.
-- **Modern UI:** High-quality icons via **Remixicon** and professional typography.
+## 🔗 Links
+*   **Live Demo:** [View Website](https://abdurahmonrahimov.uz/)
+*   **Portfolio:** [abdurahmonrahimov.uz](https://abdurahmonrahimov.uz/)
 
-## 🛠️ Built With
-
-- **HTML5:** Semantic structure.
-- **CSS3:** Custom properties (variables), Flexbox, and CSS Grid.
-- **JavaScript:** Logic for navigation, theme switching, and scroll effects.
-- **External Libraries:**
-  - [Remixicon](https://remixicon.com/) - Icon pack.
-  - [Swiper.js](https://swiperjs.com/) - Modern touch slider.
-  - [ScrollReveal](https://scrollrevealjs.org/) - Scroll animation library.
-
-## 📁 Project Structure
-
-The website is organized into the following sections:
-
-- **Home:** Hero banner with social media links.
-- **About:** Information and image gallery.
-- **Discover:** Swiper-powered destination cards.
-- **Experience:** Company stats and achievements.
-- **Video:** Video tour section with custom controls.
-- **Places:** Pricing cards with destination ratings.
-- **Subscribe:** Newsletter signup for discounts.
-- **Sponsors:** Partner logo display.
-
-## ⚙️ Setup
-
-View creator's portfolio web-site: - [click here](https://abdurahmonrahimov.uz/)
+---
+*Created by Abdurahmon Rahimov*
